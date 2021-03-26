@@ -1,5 +1,5 @@
 # BatSH
-Adds aliases for linux commands in windows, so that ```ls``` = ```dir```
+Adds aliases for linux commands in windows, so that ```ls``` = ```dir```. Also works on linux too.
 ## What?
 BatSH is a batch script that adds aliases for linux commands. For a list of programs, use ```batsh-help```.
 ## Why?
